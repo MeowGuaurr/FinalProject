@@ -12,6 +12,10 @@ body {
     margin: 0;
   }
   
+  li:hover{
+    
+  }
+  
   .bg-steel {
     background-color: #5f788a;
   }
